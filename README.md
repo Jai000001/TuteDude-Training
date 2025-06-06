@@ -26,3 +26,4 @@ Assignments of Tutedude training
   
 3.  Prints a personalized greeting message using the full name.
 
+![image](https://github.com/user-attachments/assets/b46d0c76-ae93-421c-b9c2-2a92f3f1b07b)

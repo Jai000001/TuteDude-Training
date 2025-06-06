@@ -1,5 +1,5 @@
 # TuteDude-Training
-Assignments of Tutedude training /n
+Assignments of Tutedude training
 **Task 1:**
 1.  Takes two numbers as input from the user.
 2.  Performs the basic mathematical operations on these two numbers:

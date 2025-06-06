@@ -9,8 +9,9 @@ Assignments of Tutedude training
 
   	Subtraction
 
- 	 	Multiplication
+    Multiplication
 
- 	 	Division
+    Division
 
-3.  Displays the results of each operation on the screen.
+
+4.  Displays the results of each operation on the screen.

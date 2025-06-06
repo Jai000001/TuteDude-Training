@@ -15,6 +15,8 @@ Assignments of Tutedude training
 
 
 3.  Displays the results of each operation on the screen.
+![image](https://github.com/user-attachments/assets/80190071-5481-4964-9c0a-653d3331da37)
+
 
 
 **Task 2:**
